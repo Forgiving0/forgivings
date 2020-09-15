@@ -1,2 +1,2 @@
 # In Construction
-<iframe src="https://minnit.chat/RequestFGVE?embed&nickname=" style="border:none;width:90%;height:500px;" allowTransparency="true"></iframe>
+ - Go to this link https://minnit.chat/RequestFGVE to request for dogecoin airdrop (enter your dogecoin wallet address)
