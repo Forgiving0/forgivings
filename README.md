@@ -1,5 +1,3 @@
-# In Construction
- - Go to this link https://minnit.chat/RequestFGVE to request for Bittorent airdrop (enter your dogecoin wallet address)
- - Because I'm too lazy at the moment
- - Ugh I probably won't be able to do this cuz I don't have paypal to get ether
- - elriugeiuargeruyiaijkuerliuhahbiuger gresg erdg
+# Hi, Thanks for Checking out my Profile.
+ - I am so dumb I don't know how to unpin this markdown file from my profile.
+ - So it's just sitting here, for all eternity
