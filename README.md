@@ -4,4 +4,4 @@
 #
 [![](https://forgivings.github.io/Chromebook-Browser-KRUNKER-CLIENT/sub.png)](http://www.youtube.com/forgivingkr?sub_confirmation=1 "Krunker Client Extension for Browser")
 #
-[![](https://forgivings.github.io/Chromebook-Browser-KRUNKER-CLIENT/githubverified.png)](http://www.youtube.com/forgivingkr?sub_confirmation=1 "Krunker Client Extension for Browser")
+[![](https://forgivings.github.io/Chromebook-Browser-KRUNKER-CLIENT/imageedit_4_3509837865.png)](http://www.youtube.com/forgivingkr?sub_confirmation=1 "Krunker Client Extension for Browser")
